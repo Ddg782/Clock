@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Arimo', sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+h1{
+    font-size: 15vw;
+}
+p{
+    font-size: 5vw;
+}
+button{
+    width: 300px;
+    padding: 20px;
+    margin-top: 40px;
+    background-color: black;
+    color: aliceblue;
+    font-size: 40px;
+}
